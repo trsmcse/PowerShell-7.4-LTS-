@@ -71,6 +71,6 @@ $ sudo apt-get remove powershell
 
 NOTE: Debian 11 (Bullseye) - OS support ends on 31-jul-2024. Debian 12 (Bookworm) - OS support ends on 10-jun-2026.
 
-Regards
+Author
 <br>
-Ravi Shankar Tekkam
+Ravi Shankar Tekkam (projects Head)
